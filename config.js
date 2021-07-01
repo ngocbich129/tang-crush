@@ -15,5 +15,5 @@ Như lấy tình cảm chia cho chính mình, thương không đổi`,
     mess: 'Anh thích em thì đừng có chối, mẹ em bảo nói dối là hư 🐧 ',
     messDesc: 'Biết là anh bận nhưng đừng im lặng như vậy chứ. Nhắn tin cho em điiii. 😾 ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.messenger.com/t/100006409339019'
+    messLink: 'https://www.facebook.com/bich.nguyenngoc.12092004/'
 }
